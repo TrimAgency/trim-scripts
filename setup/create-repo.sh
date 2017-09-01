@@ -3,8 +3,6 @@
 # To use this script you must have your github global configs
 # set for user and for token. You can generate a token on github.com
 
-repo_name=$1
-
 echo "Repo name?"
 read repo_name
 
