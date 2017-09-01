@@ -12,4 +12,6 @@ You must have your git global config set for user and for token.  You can genera
 settings on GitHub.
 
 Run the script with the following command:
-`./setup/create-repo.sh`
+```
+./setup/create-repo.sh
+```
