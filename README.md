@@ -15,3 +15,13 @@ Run the script with the following command:
 ```
 ./setup/create-repo.sh
 ```
+
+### create-slack-channel.sh
+
+This script creates a Slack channel on the Trim Agency team.
+It asks for the name of the channel and if it should be private or not.
+
+Run the script with the following command:
+```
+./setup/create-slack-channel.sh
+```
